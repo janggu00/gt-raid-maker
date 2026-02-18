@@ -1,0 +1,6 @@
+boss: 보스 전체
+thumb: 보스 얼빡
+char: 캐릭터 초상화
+ex: 캐릭터 전무
+icon: 육각형 아이콘
+relic: 유물
